@@ -1,2 +1,4 @@
-# God
- RO Server Emulator
+God
+========
+
+Ragnarok Online Server Emulator
